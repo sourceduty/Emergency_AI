@@ -44,12 +44,16 @@ Furthermore, the deployment of automated emergency boats underscores a commitmen
 
 #
 
+![Rescue Boat](https://github.com/user-attachments/assets/74d4703a-a9a4-4501-8275-c4785b8477bc)
+
+A rescue mech refers to a specialized robotic or unmanned system designed to assist in emergency response operations, particularly in environments that are too dangerous, inaccessible, or time-sensitive for human rescuers. These machines can take various forms—such as aerial drones, ground-based crawlers, amphibious vehicles, or even humanoid robots—and are typically equipped with advanced sensors, navigation systems, and manipulation tools to locate, assess, and aid victims during disasters like earthquakes, floods, fires, or industrial accidents. The custom [Emergency Rescue Mech](https://chatgpt.com/g/g-682528f2bbfc819188e036323ee89410-emergency-rescue-mech) serves as a high-level design and strategy assistant for such systems, helping users conceptualize, troubleshoot, and refine robotic or aircraft-based rescue platforms. By integrating knowledge from aerospace engineering, robotics, AI, materials science, and emergency protocols, this GPT provides detailed guidance on everything from sensor integration and terrain mobility to power sources and autonomy levels. Its goal is to help users develop robust, modular, and field-ready solutions tailored to the unique challenges of real-world rescue missions, while considering endurance, payload constraints, environmental resilience, and coordination with human responders.
+
+#
+
 ![Emergency Disaster Cargo Drop Pod](https://github.com/user-attachments/assets/0fcf6e21-f5fc-401e-9a93-9490e69a6adb)
 
 #
 
-[Emergency Rescue Mech](https://chatgpt.com/g/g-682528f2bbfc819188e036323ee89410-emergency-rescue-mech)
-<br>
 [Emergency Survival Gear](https://chatgpt.com/g/g-OKvPg1Rkx-emergency-survival-gear)
 <br>
 [Emergency Chemical](https://chatgpt.com/g/g-68252dd5e2e8819181fe60fefa89b1f4-emergency-chemical)
