@@ -61,3 +61,5 @@ Furthermore, the deployment of automated emergency boats underscores a commitmen
 [Emergency Chemical](https://chatgpt.com/g/g-68252dd5e2e8819181fe60fefa89b1f4-emergency-chemical)
 <br>
 [Emergency Automation](https://chatgpt.com/g/g-6826dada2f2c8191b7a5c8d9b4fe8271-emergency-automation)
+<br>
+[Military AI](https://github.com/sourceduty/Military_AI)
