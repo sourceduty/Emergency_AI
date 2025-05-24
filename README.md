@@ -50,7 +50,9 @@ A rescue mech refers to a specialized robotic or unmanned system designed to ass
 
 #
 
-![Emergency Disaster Cargo Drop Pod](https://github.com/user-attachments/assets/0fcf6e21-f5fc-401e-9a93-9490e69a6adb)
+![Boat Lifesaver](https://github.com/user-attachments/assets/a01bfa8c-46dc-4c13-92f0-7d14f9329bf8)
+
+[Boat Lifesaver](https://chatgpt.com/g/g-68313394a8488191be70b11a5aa329e4-boat-lifesaver) was made to assist with the development, design, and optimization of emergency life safety equipment specifically tailored for watercraft. It focuses on creating highly effective, reliable, and innovative safety solutions that ensure the protection of passengers, crew members, and operators in maritime environments. The GPT offers detailed insights and guidance on designing various types of watercraft safety equipment, such as flotation devices, life vests, inflatable rafts, distress signaling devices, life rings, emergency communication systems, and personal protective gear. It prioritizes compliance with international standards, like ISO and USCG regulations, while considering the comfort, durability, and performance of safety gear under extreme conditions such as adverse weather, water temperature, and currents. Additionally, Boat Lifesaver helps identify cutting-edge technologies like GPS tracking, water-activated beacons, or thermal insulation that can be integrated into safety gear. The GPT also provides recommendations for ergonomic designs to enhance mobility during emergencies and offers insights into the testing and certification processes, ensuring that safety equipment functions optimally and can be quickly deployed in real-world scenarios. This system is geared toward professionals working on recreational, commercial, or military watercraft, helping them design and refine life-saving gear that is intuitive, effective, and reliable in all types of maritime emergencies.
 
 #
 
