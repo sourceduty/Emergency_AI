@@ -1,5 +1,5 @@
-![Life Jacket](https://github.com/user-attachments/assets/6f34efee-4ec2-41a4-b695-84b0ea32cfc9)
 ![Throwable Inflatable Life Ring](https://github.com/user-attachments/assets/6c843a07-2520-4f32-acb2-ee3e7c7b4bae)
+![HydrOx Pack Concept](https://github.com/user-attachments/assets/1e0cba5b-3575-4770-856e-753fb02ed2cf)
 
 Emergency services are essential for public safety, encompassing fire departments, emergency medical services (EMS), police, disaster response units, and search and rescue teams. These services rely on speed, precision, and coordination to save lives and protect communities during critical situations. In recent years, artificial intelligence (AI) and automation have become transformative forces in enhancing the efficiency and effectiveness of these systems. AI-powered dispatch software can analyze incoming emergency calls to determine the nature and urgency of incidents, prioritize resources accordingly, and even suggest optimal response routes using real-time traffic data. Meanwhile, drones equipped with cameras and sensors are being deployed to assess disaster zones, identify victims, and deliver medical supplies where human access is limited or too dangerous. These technologies not only accelerate the decision-making process but also improve situational awareness, ultimately increasing the chances of successful outcomes during emergencies.
 
