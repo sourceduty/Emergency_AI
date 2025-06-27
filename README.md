@@ -1,4 +1,4 @@
-![Throwable Inflatable Life Ring](https://github.com/user-attachments/assets/6c843a07-2520-4f32-acb2-ee3e7c7b4bae)
+![Fire](https://github.com/user-attachments/assets/cfdc7845-78af-4097-8a94-fc1156e63d0e)
 ![HydrOx Pack Concept](https://github.com/user-attachments/assets/1e0cba5b-3575-4770-856e-753fb02ed2cf)
 
 Emergency services are essential for public safety, encompassing fire departments, emergency medical services (EMS), police, disaster response units, and search and rescue teams. These services rely on speed, precision, and coordination to save lives and protect communities during critical situations. In recent years, artificial intelligence (AI) and automation have become transformative forces in enhancing the efficiency and effectiveness of these systems. AI-powered dispatch software can analyze incoming emergency calls to determine the nature and urgency of incidents, prioritize resources accordingly, and even suggest optimal response routes using real-time traffic data. Meanwhile, drones equipped with cameras and sensors are being deployed to assess disaster zones, identify victims, and deliver medical supplies where human access is limited or too dangerous. These technologies not only accelerate the decision-making process but also improve situational awareness, ultimately increasing the chances of successful outcomes during emergencies.
@@ -65,3 +65,5 @@ A rescue mech refers to a specialized robotic or unmanned system designed to ass
 [Emergency Automation](https://chatgpt.com/g/g-6826dada2f2c8191b7a5c8d9b4fe8271-emergency-automation)
 <br>
 [Military AI](https://github.com/sourceduty/Military_AI)
+<br>
+[Firefight Engineer](https://chatgpt.com/g/g-685e374f9c248191a0b3c6c89ab6d13b-firefight-engineer)
