@@ -53,9 +53,17 @@ A rescue mech refers to a specialized robotic or unmanned system designed to ass
 
 [Boat Lifesaver](https://chatgpt.com/g/g-68313394a8488191be70b11a5aa329e4-boat-lifesaver) was made to assist with the development, design, and optimization of emergency life safety equipment specifically tailored for watercraft. It focuses on creating highly effective, reliable, and innovative safety solutions that ensure the protection of passengers, crew members, and operators in maritime environments. The GPT offers detailed insights and guidance on designing various types of watercraft safety equipment, such as flotation devices, life vests, inflatable rafts, distress signaling devices, life rings, emergency communication systems, and personal protective gear. It prioritizes compliance with international standards, like ISO and USCG regulations, while considering the comfort, durability, and performance of safety gear under extreme conditions such as adverse weather, water temperature, and currents. Additionally, Boat Lifesaver helps identify cutting-edge technologies like GPS tracking, water-activated beacons, or thermal insulation that can be integrated into safety gear. The GPT also provides recommendations for ergonomic designs to enhance mobility during emergencies and offers insights into the testing and certification processes, ensuring that safety equipment functions optimally and can be quickly deployed in real-world scenarios. This system is geared toward professionals working on recreational, commercial, or military watercraft, helping them design and refine life-saving gear that is intuitive, effective, and reliable in all types of maritime emergencies.
 
-#
+<br>
+
 ![Sea Emergency](https://github.com/user-attachments/assets/94f72feb-61df-41ec-b53c-d505b65df9ba)
 ![Lost Swimming UAV Drone Formation](https://github.com/user-attachments/assets/0acfc41f-0ff3-4899-b9e7-44a90f9a7300)
+
+#
+
+![Police](https://github.com/user-attachments/assets/fdacd0d4-3d4c-4020-a4a6-1fe1dcef9ea0)
+
+An [emergency interface](https://chatgpt.com/g/g-68643a8c58508191a66b7ac92fb6d79f-emergency-interface) , often referred to as an Emergency Graphical User Interface (EGUI), is a specialized system designed to support first responders—such as firefighters, paramedics, and law enforcement officers—by providing quick and intuitive access to critical information during high-stress, time-sensitive situations. These interfaces typically integrate real-time data from sensors, wearable devices, and location-based services, helping responders assess threats, track resources, and communicate effectively with team members. By minimizing cognitive load and offering easy-to-navigate visuals, emergency interfaces allow users to make rapid decisions with greater accuracy, ultimately enhancing situational awareness and improving the overall efficiency and safety of emergency response operations.
+
 #
 
 [Emergency Survival Gear](https://chatgpt.com/g/g-OKvPg1Rkx-emergency-survival-gear)
